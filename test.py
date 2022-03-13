@@ -5,6 +5,5 @@ for i in range(10):
     print(i)
 sum = k+i
 
-
 print("commy")
 print("koppo1")
