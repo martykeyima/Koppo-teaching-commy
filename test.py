@@ -6,3 +6,5 @@ for i in range(10):
 sum = k+i
 
 print("commy")
+print('eoeo')
+test = int(input())
